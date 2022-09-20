@@ -1,0 +1,95 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 350,
+      "comment": "this is not fresh",
+      "date": "2022-09-12T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 88000,
+      "comment": "Brand New Product",
+      "date": "2022-09-22T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Iphone6",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 57000,
+      "comment": "Second Hand iphone",
+      "date": "2022-09-03T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "S21Ultra",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 76599,
+      "comment": "This is refurbished phone",
+      "date": "2022-05-03T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 199,
+      "comment": "This is not fresh",
+      "date": "2022-08-09T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 120,
+      "comment": "this is fresh apple",
+      "date": "2022-09-09T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "this is fresh apple",
+      "date": "2022-09-09T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "Mango",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 350,
+      "comment": "this is not fresh",
+      "date": "2022-09-12T18:30:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 350,
+      "comment": "this is not fresh",
+      "date": "2022-09-12T18:30:00.000Z",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
